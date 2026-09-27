@@ -1,0 +1,5 @@
+Model Architecture,Model Category,ROC-AUC
+Logistic Regression,Linear Baseline,1.0
+Random Forest,Ensemble (Bagging),1.0
+XGBoost,Ensemble (Boosting),1.0
+Multimodal 2D-CNN (Avatar + Behavior),Deep Learning (Vision + MLP),1.0
